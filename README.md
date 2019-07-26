@@ -14,3 +14,7 @@ Your job is to simulate the load on the website and learn how many machines you 
 Snapshot of the Swing application. User enters rate of request generation and processing per millisecond alongside the number of services to handle these requests. 
 
 <img width="1079" alt="Screen Shot 2019-07-26 at 12 30 45 AM" src="https://user-images.githubusercontent.com/32042786/61927451-cdfb1f80-af42-11e9-8b4f-6cf599b8f213.png">
+
+Service Details Table provides insight into load on each service in real time
+Request Details Table lists all requests and which service handled them
+
